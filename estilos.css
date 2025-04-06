@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #66003b; 
+}
+
+h2 {
+    color: #66001a; 
+}
+<div>
+.foto-personal {
+    float: left;
+    margin-right: 20px; 
+    width: 150px;
+    height: 150px;
+}
+</div>
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
